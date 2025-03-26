@@ -16,10 +16,10 @@ O código foi implementado em Python.
 Os testes foram feitos em diferentes tamanhos de entrada. Os resultados podem ser observados abaixo:
 
 ### 📌 **Bubble Sort**  
-![Execução bubbleSort](BubbleSort.png)
+![Execução bubbleSort](Imagens/BubbleSort.png)
 
 ### 📌 **Bubble Sort Otimizado**  
-![Execução com bubbleSortotimizado](BubbleSortOtimizado.png)
+![Execução com bubbleSortotimizado](Imagens/BubbleSortOtimizado.png)
 
 
 ## 🔬 Análise dos Resultados
